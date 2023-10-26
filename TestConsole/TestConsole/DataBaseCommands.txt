@@ -1,0 +1,9 @@
+﻿CREATE TABLE "TestTable" (
+	"IntFiled"	INTEGER,
+	"Textfield"	TEXT,
+	"BlobField"	BLOB,
+	"RealFiel"	REAL,
+	"NumericField"	NUMERIC
+);
+
+
